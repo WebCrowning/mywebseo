@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1xbet Congo Brazzaville</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #0044cc;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+        }
+        nav {
+            background-color: #003399;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #0044cc;
+        }
+        footer {
+            background-color: #0044cc;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenue sur 1xbet Congo Brazzaville</h1>
+    </header>
+
+    <nav>
+        <a href="#about">À Propos</a>
+        <a href="#features">Fonctionnalités</a>
+        <a href="#security">Sécurité</a>
+        <a href="#signup">Inscription</a>
+    </nav>
+
+    <section id="about">
+        <h2>À Propos de 1xbet Congo Brazzaville</h2>
+        <p>1xbet Congo Brazzaville est une plateforme de paris sportifs et de jeux d'argent en ligne qui permet aux congolais de parier sur les matchs de football, de basket-ball, de rugby et d'autres sports populaires. Cette entreprise offre également des slots en ligne, des jeux de casino et des jeux de stratégie pour faire gagner de l'argent aux joueurs.</p>
+    </section>
+
+    <section id="features">
+        <h2>Fonctionnalités</h2>
+        <p>Les utilisateurs inscrits sur 1xbet Congo Brazzaville peuvent accéder à une multitude de fonctionnalités, dont une offre de bienvenue pour les nouveaux joueurs, un programme de fidélité et des promotions qui peuvent aider les joueurs à maximiser leurs gains. Ils peuvent également utiliser une multitude de méthodes de dépôt et de retrait pour faciliter l'accès à leurs gains.</p>
+    </section>
+
+    <section id="security">
+        <h2>Sécurité</h2>
+        <p>La plateforme est sûre et sécurisée et dispose des garanties et des mesures de sécurité nécessaires pour protéger les informations personnelles des utilisateurs, ainsi que leurs transactions financières en tout temps.</p>
+    </section>
+
+    <section id="signup">
+        <h2>Inscrivez-vous Maintenant</h2>
+        <p>1xbet Congo Brazzaville est un opérateur sérieux, fiable et très apprécié des joueurs congolais qui cherchent à se divertir tout en générant de l'argent en pariant sur leurs sports préférés. <strong>Inscrivez-vous maintenant sur 1xbet Congo Brazzaville et commencez à encaisser vos gains !</strong></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 1xbet Congo Brazzaville. Tous droits réservés.</p>
+    </footer>
+
+</body>
+</html>
